@@ -1,2 +1,2 @@
-A Physics base snowboarding game. Don't plan to touch this much. Will update in due time.
+A Physics base snowboarding game. The absoluelty ridiculous and nonsensical physics make it a joy to mess around with. Then you realize the game has less than a minute of playtime. Yeah, don't plan to touch this much. Will update soon though, as having products on github that are just nothing...Yeah, not a good image, really. 
 <img width="1461" height="720" alt="screenshot_2025-08-05_21-48-36" src="https://github.com/user-attachments/assets/0844351a-8c5b-421a-aa08-2fa372ad9405" />
